@@ -2,6 +2,12 @@
 
 - A mirror under vcs.
 
+## Motivation
+I do a lot of deep work. Its useful to be able to quickly search and index large amounts of documentation, for various materials in various formats. Sometimes I want to look at the source code of an erlang function, I can quickly grep the source code. Sometimes I want to read the reference manual for the language. I can open the epub from this repo, using [nov](https://depp.brause.cc/nov.el/) on emacs without losing context.
+
+
+
+## Source
 ```sh
 $ wget https://www.erlang.org/doc/system/Erlang%20System%20Documentation.epub
 --2024-12-22 23:30:15--  https://www.erlang.org/doc/system/Erlang%20System%20Documentation.epub
