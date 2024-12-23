@@ -5,7 +5,13 @@
 ## Motivation
 I do a lot of deep work. Its useful to be able to quickly search and index large amounts of documentation, for various materials in various formats. Sometimes I want to look at the source code of an erlang function, I can quickly grep the source code. Sometimes I want to read the reference manual for the language. I can open the epub from this repo, using [nov](https://depp.brause.cc/nov.el/) on emacs without losing context.
 
+## Screenshots
+Reading a specific chapter
 
+![](./docs/emacs_chapter_27_2_example.png)
+
+Browsing the table of contents.
+![](./docs/emacs_toc_example.png)
 
 ## Source
 ```sh
